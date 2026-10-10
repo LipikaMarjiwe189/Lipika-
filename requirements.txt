@@ -1,0 +1,6 @@
+# SmartStudy AI — Python Dependencies
+# Install all of these with:  pip install -r requirements.txt
+
+streamlit>=1.35.0           # The web UI framework
+google-genai>=1.0.0         # Google Gemini AI client (new SDK)
+python-dotenv>=1.0.1        # Loads the .env file so the API key stays secret

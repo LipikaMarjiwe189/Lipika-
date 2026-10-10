@@ -1,0 +1,17 @@
+# Rename this file to .gitignore
+# Protect the API key — never commit this file
+.env
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
